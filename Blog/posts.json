@@ -6,7 +6,20 @@
       "created_by": "Martin Ortiz",
       "title": "New Games In Testing",
       "description": "We are starting to internally test multiple games and we will be adding them soon, includi...",
-      "header": "https://i.pinimg.com/736x/d3/1b/bd/d31bbd07a2d80b656db36d62ec0720e8.jpg"
+    },
+    {
+      "id": "1da4cc45-4716-4ae0-91b1-de686f7bfc6e",
+      "created_at": "1769532563",
+      "created_by": "Martin Ortiz",
+      "title": "The Strategy Update",
+      "description": "For the past year, *ApexView* has been about analyzing what *happened*. With RC1, we are shifting our...",
+    },
+    {
+      "id": "ef544f84-d869-4a3b-88c2-75d0342f6a24",
+      "created_at": "1769332563",
+      "created_by": "Martin Ortiz",
+      "title": "The Aero Update",
+      "description": "We are entering the final straight. With the successful stress testing of the data ingest...",
     }
   ]
 }
