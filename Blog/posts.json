@@ -4,15 +4,8 @@
       "id": "2ed905df-c334-45d7-b1e9-bcc5e0b6c9ce",
       "created_at": "1769332563",
       "created_by": "Martin Ortiz",
-      "title": "New Games In Testing",
+      "title": "Beta Release",
       "description": "We are starting to internally test multiple games and we will be adding them soon, includi..."
-    },
-    {
-      "id": "ef544f84-d869-4a3b-88c2-75d0342f6a24",
-      "created_at": "1769332563",
-      "created_by": "Martin Ortiz",
-      "title": "The Aero Update",
-      "description": "We are entering the final straight. With the successful stress testing of the data ingest..."
     }
   ]
 }
