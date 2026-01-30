@@ -1,12 +1,10 @@
-# TRACKVIEW TERMS OF SERVICE
+## TRACKVIEW TERMS OF SERVICE
 
 **Last Updated:** January 30, 2026
 
 ## 1. Acceptance of Terms
 
 By accessing or using the TRACKVIEW website, software, APIs, or related services (collectively, the “Service”), you agree to be bound by these Terms of Service (“Terms”). If you do not agree, you must immediately discontinue use of the Service. These Terms apply subject to mandatory consumer protection laws that cannot be waived.
-
----
 
 ## 2. User Obligations
 
@@ -15,8 +13,6 @@ By accessing or using the TRACKVIEW website, software, APIs, or related services
 2. **Account Security:** You are responsible for maintaining the confidentiality of your account credentials and for all activity conducted under your account.
 
 3. **Termination:** TRACKVIEW may suspend or terminate access to the Service for violation of these Terms or where necessary to protect the integrity or security of the Service.
-
----
 
 ## 3. Intellectual Property and Data
 
@@ -35,8 +31,6 @@ By accessing or using the TRACKVIEW website, software, APIs, or related services
    * Use the Service to develop competing products.
    * Use automated means to extract or replicate Service data.
 
----
-
 ## 4. Technical Disclaimer and Risk Allocation
 
 1. **No Affiliation:** TRACKVIEW is not affiliated with any racing simulator, league, or third-party platform.
@@ -53,15 +47,11 @@ By accessing or using the TRACKVIEW website, software, APIs, or related services
 
 5. **Beta Features:** Beta or experimental features may be unstable and are provided without guarantees.
 
----
-
 ## 5. Privacy and Data Protection
 
 Personal data is processed in accordance with the **TRACKVIEW Privacy Policy**, which forms an integral part of these Terms.
 
 Nothing in these Terms limits your statutory rights under applicable data protection law.
-
----
 
 ## 6. Limitation of Liability
 
@@ -71,19 +61,13 @@ To the maximum extent permitted by law:
 
 2. Liability for death or personal injury caused by gross negligence or intentional misconduct is not excluded.
 
----
-
 ## 7. Governing Law and Jurisdiction
 
 These Terms are governed by the laws of **Spain**. Courts of Spain have exclusive jurisdiction, except where mandatory consumer protection law provides otherwise.
 
----
-
 ## 8. Amendments
 
 TRACKVIEW may update these Terms from time to time. Continued use of the Service after publication constitutes acceptance of the revised Terms.
-
----
 
 ## 9. Service Availability and Discontinuation
 
@@ -95,8 +79,6 @@ You acknowledge and agree that:
 
 * The Service may cease operation permanently.
 * Discontinuation of the Service does **not** entitle you to any refund, credit, or compensation for prepaid fees, except where mandatory law requires otherwise.
-
----
 
 ## 10. Subscriptions, Payments, and Cancellations
 
@@ -110,8 +92,6 @@ You acknowledge and agree that:
    * If applicable law provides non-waivable refund rights, those rights apply strictly as required by law.
 
 3. **Cancellation:** You may cancel recurring subscriptions through your account. Cancellation stops future billing but does not result in a refund for the current billing period.
-
----
 
 ## 11. Contact
 
